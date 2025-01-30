@@ -1,6 +1,10 @@
-# Team Project Repository
+# VibeCheck
 
-This repository contains the codebase for our team project, which involves interacting with the Spotify and Genius APIs to create a music-related application.
+VibeCheck is a dynamic full-stack social media platform that connects users based on their musical preferences. It creates "vibe titles" by analyzing recent song lyrics and audio content. It pairs users who have similar tastes in music, promoting relationships in group chats and chat rooms for mutual musical discovery and enjoyment. This cutting-edge platform creates a community for music enthusiasts to enhance their appreciation of music, opening doors to new experiences and friendships with each playlist.
+
+## Project Repository
+
+This repository contains the codebase for our team project titled "VibeCheck", which involves interacting with the Spotify and Genius APIs to create a music-related application.
 
 [![Build Status](https://app.travis-ci.com/gcivil-nyu-org/Wednesday-Fall2023-Team-1.svg?branch=develop)](https://app.travis-ci.com/gcivil-nyu-org/Wednesday-Fall2023-Team-1)
 
@@ -108,4 +112,4 @@ redis-server --port 6579
 
 [![asciicast](https://asciinema.org/a/BqGf7cpmVyexCGKc767nvnYYp.svg)](https://asciinema.org/a/BqGf7cpmVyexCGKc767nvnYYp)
 
-1. Create environemnt
+1. Create environment
